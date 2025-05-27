@@ -2,7 +2,7 @@
 
 ## **1\. Introdução**
 
-Este projeto é sobre o desenvolvimento de um modelo de aprendizado de máquina para a classificação de e-mails como spam (indesejados) ou não spam (ham, desejados). O objetivo principal deste projeto é construir um modelo eficaz capaz de automatizar essa classificação, melhorando a experiência do usuário e a segurança online.
+Este projeto demonstra o desenvolvimento de um modelo de aprendizado de máquina para a classificação de e-mails como spam (indesejados) ou não spam (ham, desejados). O objetivo principal deste projeto é construir um modelo eficaz capaz de automatizar essa classificação, melhorando a experiência do usuário e a segurança online.
 
 ## **2\. Algoritmo Naive Bayes**
 
